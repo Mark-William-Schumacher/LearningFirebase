@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
         mUsername = ANONYMOUS;
 
+
         // Initialize references to views
         mProgressBar = (ProgressBar) findViewById(R.id.progressBar);
         mMessageListView = (ListView) findViewById(R.id.messageListView);
